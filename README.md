@@ -59,7 +59,7 @@ I'm a **Junior Data Analyst**, **Full-stack Developer**, and **AI/ML enthusiast*
 - **Tech Stack**: React, Node.js, Database
 - **Features**: Trip planning, destination search, booking management
 
-### [Chat App]
+### [Chat App](https://chat-app-mern-1-85en.onrender.com/login)
 - **Description**: Real-time chat application with modern UI/UX
 - **Tech Stack**: React, Node.js, WebSockets
 - **Features**: Real-time messaging, user authentication, message history
