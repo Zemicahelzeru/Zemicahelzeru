@@ -54,22 +54,22 @@ I'm a **Junior Data Analyst**, **Full-stack Developer**, and **AI/ML enthusiast*
 
 ## 💼 Featured Projects
 
-### [Travel App](https://github.com/Zemicahelzeru/travel-app)
+### [Travel App]
 - **Description**: Full-stack travel planning and booking application
 - **Tech Stack**: React, Node.js, Database
 - **Features**: Trip planning, destination search, booking management
 
-### [Chat App](https://github.com/Zemicahelzeru/chat-app)
+### [Chat App]
 - **Description**: Real-time chat application with modern UI/UX
 - **Tech Stack**: React, Node.js, WebSockets
 - **Features**: Real-time messaging, user authentication, message history
 
-### [Apple React Clone](https://github.com/Zemicahelzeru/apple-react-clone)
+### [Apple React Clone](https://apple-website-clone-using-react.vercel.app/)
 - **Description**: Responsive clone of Apple's website built with React
 - **Tech Stack**: React, CSS3, JavaScript
 - **Features**: Modern UI design, responsive layout, smooth animations
 
-### [Portfolio Website](https://eliaszeru.github.io/)
+### [Portfolio Website](https://Zemicahelzeru.github.io/)
 - **Description**: My personal portfolio website showcasing my projects and skills
 - **Tech Stack**: HTML, CSS, JavaScript
 - **Features**: Responsive design, project showcase, contact form
