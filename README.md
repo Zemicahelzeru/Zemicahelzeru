@@ -12,7 +12,7 @@ I'm a **Junior Data Analyst**, **Full-stack Developer**, and **AI/ML enthusiast*
 - 🌱 I'm currently learning **advanced machine learning techniques and modern web frameworks**
 - 👯 I'm looking to collaborate on **data science projects, open-source contributions, and web development**
 - 💬 Ask me about **data analysis, web development, AI/ML, or anything tech-related!**
-- 📫 How to reach me: **[Visit my portfolio](https://eliaszeru.github.io/)** or **[Connect on LinkedIn](https://linkedin.com/in/elias-asegahegn)**
+- 📫 How to reach me: **[Visit my portfolio](https://Zemicahelzeru.github.io/)** or **[Connect on LinkedIn](https://linkedin.com/in/elias-asegahegn)**
 - ⚡ Fun fact: **I turn complex data into beautiful insights and build apps that make a difference**
 
 ## 🛠️ Tech Stack
