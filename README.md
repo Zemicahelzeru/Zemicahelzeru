@@ -54,30 +54,26 @@ I'm a **Junior Data Analyst**, **Full-stack Developer**, and **AI/ML enthusiast*
 
 ## 💼 Featured Projects
 
+### [Travel App](https://github.com/Zemicahelzeru/travel-app)
+- **Description**: Full-stack travel planning and booking application
+- **Tech Stack**: React, Node.js, Database
+- **Features**: Trip planning, destination search, booking management
+
+### [Chat App](https://github.com/Zemicahelzeru/chat-app)
+- **Description**: Real-time chat application with modern UI/UX
+- **Tech Stack**: React, Node.js, WebSockets
+- **Features**: Real-time messaging, user authentication, message history
+
+### [Apple React Clone](https://github.com/Zemicahelzeru/apple-react-clone)
+- **Description**: Responsive clone of Apple's website built with React
+- **Tech Stack**: React, CSS3, JavaScript
+- **Features**: Modern UI design, responsive layout, smooth animations
+
 ### [Portfolio Website](https://eliaszeru.github.io/)
 - **Description**: My personal portfolio website showcasing my projects and skills
 - **Tech Stack**: HTML, CSS, JavaScript
 - **Features**: Responsive design, project showcase, contact form
 
-### [Budget Manager](https://github.com/Zemicahelzeru/Budget-manager)
-- **Description**: A web application for managing personal finances and budgets
-- **Tech Stack**: JavaScript, HTML, CSS
-- **Features**: Budget tracking, expense management, financial insights
-
-### [Snake Game](https://github.com/Zemicahelzeru/snake-game)
-- **Description**: Classic Snake game implementation with modern JavaScript
-- **Tech Stack**: JavaScript, HTML5, CSS3
-- **Features**: Interactive gameplay, score tracking, responsive controls
-
-### [BMI Calculator](https://github.com/Zemicahelzeru/Body-mass-index-calculator)
-- **Description**: Body Mass Index calculator with user-friendly interface
-- **Tech Stack**: HTML, CSS, JavaScript
-- **Features**: Real-time calculation, health category display
-
-### [Apple Clone 2020](https://github.com/Zemicahelzeru/Apple-nonresponsive-clone-2020)
-- **Description**: A non-responsive clone of Apple's website design from 2020
-- **Tech Stack**: HTML, CSS
-- **Features**: Modern UI design, layout recreation
 
 ## 📊 Repository Overview
 
