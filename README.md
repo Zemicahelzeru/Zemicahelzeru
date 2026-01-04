@@ -95,7 +95,7 @@ I'm a **Junior Data Analyst**, **Full-stack Developer**, and **AI/ML enthusiast*
   <a href="https://github.com/Zemicahelzeru" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://eliaszeru.github.io/" target="_blank">
+  <a href="https://Zemicahelzeru.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
@@ -117,6 +117,6 @@ I'm a **Junior Data Analyst**, **Full-stack Developer**, and **AI/ML enthusiast*
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Zemicahelzeru&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   <p>⭐️ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</p>
-  <p>Made with ❤️ by <a href="https://github.com/Zemicahelzeru">Zemicahel Zeru</a></p>
+  
 </div>
 
